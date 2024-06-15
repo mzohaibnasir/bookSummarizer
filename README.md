@@ -1,4 +1,4 @@
-# cLabs_Miscellaneous
+# BookSummarizer
 
 Steps:
 1. Ingestion from gdrive
